@@ -1,0 +1,15 @@
+
+@media print {
+  :root { --paper: #fff; --ink: #000; --line: #bbb; }
+  body { background: #fff; color: #000; font-size: 11pt; }
+  body::before, .site-header, .site-footer, .trend-actions, .cta-band, .search-dialog, .lightbox, .toast, .timeline-nav, .button-row, .trend-toc { display: none !important; }
+  .container, .narrow { width: 100%; }
+  .section, .section-sm { padding-block: 1.5rem; }
+  .trend-title, .page-hero h1, .article-hero h1 { font-size: 32pt; }
+  .specimen-figure, .article-cover { box-shadow: none; break-inside: avoid; }
+  .trend-layout, .article-layout { display: block; }
+  .trend-main section { break-inside: avoid; }
+  a { color: #000; text-decoration: underline; }
+  a[href^="http"]::after { content: " (" attr(href) ")"; font-size: 8pt; word-break: break-all; }
+  .trend-grid { grid-template-columns: repeat(2,1fr); }
+}
