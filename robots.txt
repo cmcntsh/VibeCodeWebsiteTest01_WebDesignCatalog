@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /private/
+Sitemap: https://webdesigntrendcatalog.com/sitemap.xml

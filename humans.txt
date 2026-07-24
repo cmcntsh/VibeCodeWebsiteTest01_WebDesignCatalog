@@ -1,0 +1,5 @@
+Web Design Trend Catalog
+Creative direction: The Web, Indexed
+Built with semantic HTML5, CSS3, modern JavaScript, and a small optional PHP SMTP endpoint.
+Source inventory: project-owner-supplied Website Design Trends History PDF.
+Launch version: 1.0.0 — 2026-07-23
