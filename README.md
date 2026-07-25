@@ -281,7 +281,7 @@ Do NOT use:
 • Any JavaScript framework
 • Any CSS framework
 
-The website should be uploadable directly to standard web hosting such as <USE YOUR DESIRED HOSTING PLATFORM HERE> without requiring:
+The website should be uploadable directly to standard web hosting such as <*****USE YOUR DESIRED HOSTING PLATFORM HERE*****> without requiring:
 
 • Node.js
 • npm
@@ -446,7 +446,7 @@ Never hardcode credentials.
 
 Instead, clearly explain which SMTP settings I need to configure after deploying the website.
 
-Suggest contact form processing options I can use with <USE YOUR HOSTING PLATFORM HERE>.
+Suggest contact form processing options I can use with <*****USE YOUR HOSTING PLATFORM HERE*****>.
 
 ──────────────────────────────
 SEO
@@ -522,9 +522,9 @@ Ensure the website is responsive.
 
 Ensure the design feels premium.
 
-Then present the finished website together with a clear explanation of the project structure and simple instructions for publishing it on <USE YOUR DESIRED HOSTING PLATFORM HERE>.
+Then present the finished website together with a clear explanation of the project structure and simple instructions for publishing it on <*****USE YOUR DESIRED HOSTING PLATFORM HERE*****>.
 
 Do not stop until the website is production-ready.
 
-The name of my company is: <USE YOUR DESIRED WEBSITE NAME HERE>
+The name of my company is: <*****USE YOUR DESIRED WEBSITE NAME HERE*****>
 ```
